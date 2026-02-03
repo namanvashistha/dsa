@@ -8,24 +8,24 @@
 
 | # | Topic | Problems | Difficulty | File |
 |---|-------|----------|------------|------|
-| 1 | Arrays & Hashing | 9 | ⭐-⭐⭐ | [01-arrays-hashing.md](01-arrays-hashing.md) |
-| 2 | Two Pointers | 5 | ⭐-⭐⭐⭐ | [02-two-pointers.md](02-two-pointers.md) |
-| 3 | Sliding Window | 6 | ⭐-⭐⭐⭐ | [03-sliding-window.md](03-sliding-window.md) |
-| 4 | Stack | 7 | ⭐-⭐⭐⭐ | [04-stack.md](04-stack.md) |
-| 5 | Binary Search | 7 | ⭐-⭐⭐⭐ | [05-binary-search.md](05-binary-search.md) |
-| 6 | Linked List | 11 | ⭐-⭐⭐⭐ | [06-linked-list.md](06-linked-list.md) |
-| 7 | Trees | 15 | ⭐-⭐⭐⭐ | [07-trees.md](07-trees.md) |
-| 8 | Tries | 3 | ⭐⭐-⭐⭐⭐ | [08-tries.md](08-tries.md) |
-| 9 | Heap / Priority Queue | 7 | ⭐-⭐⭐⭐ | [09-heap-priority-queue.md](09-heap-priority-queue.md) |
-| 10 | Backtracking | 9 | ⭐⭐-⭐⭐⭐ | [10-backtracking.md](10-backtracking.md) |
-| 11 | Graphs | 13 | ⭐⭐-⭐⭐⭐ | [11-graphs.md](11-graphs.md) |
-| 12 | Advanced Graphs | 6 | ⭐⭐-⭐⭐⭐ | [12-advanced-graphs.md](12-advanced-graphs.md) |
-| 13 | 1-D Dynamic Programming | 12 | ⭐-⭐⭐⭐ | [13-dynamic-programming-1d.md](13-dynamic-programming-1d.md) |
-| 14 | 2-D Dynamic Programming | 11 | ⭐⭐-⭐⭐⭐ | [14-dynamic-programming-2d.md](14-dynamic-programming-2d.md) |
-| 15 | Greedy | 8 | ⭐⭐-⭐⭐ | [15-greedy.md](15-greedy.md) |
-| 16 | Intervals | 6 | ⭐-⭐⭐⭐ | [16-intervals.md](16-intervals.md) |
-| 17 | Math & Geometry | 8 | ⭐-⭐⭐ | [17-math-geometry.md](17-math-geometry.md) |
-| 18 | Bit Manipulation | 7 | ⭐-⭐⭐ | [18-bit-manipulation.md](18-bit-manipulation.md) |
+| 1 | Arrays & Hashing | 9 | ⭐-⭐⭐ | [00-arrays-hashing.md](01-arrays-hashing/00-arrays-hashing.md) |
+| 2 | Two Pointers | 5 | ⭐-⭐⭐⭐ | [00-two-pointers.md](02-two-pointers/00-two-pointers.md) |
+| 3 | Sliding Window | 6 | ⭐-⭐⭐⭐ | [00-sliding-window.md](03-sliding-window/00-sliding-window.md) |
+| 4 | Stack | 7 | ⭐-⭐⭐⭐ | [00-stack.md](04-stack/00-stack.md) |
+| 5 | Binary Search | 7 | ⭐-⭐⭐⭐ | [00-binary-search.md](05-binary-search/00-binary-search.md) |
+| 6 | Linked List | 11 | ⭐-⭐⭐⭐ | [00-linked-list.md](06-linked-list/00-linked-list.md) |
+| 7 | Trees | 15 | ⭐-⭐⭐⭐ | [00-trees.md](07-trees/00-trees.md) |
+| 8 | Tries | 3 | ⭐⭐-⭐⭐⭐ | [00-tries.md](08-tries/00-tries.md) |
+| 9 | Heap / Priority Queue | 7 | ⭐-⭐⭐⭐ | [00-heap-priority-queue.md](09-heap-priority-queue/00-heap-priority-queue.md) |
+| 10 | Backtracking | 9 | ⭐⭐-⭐⭐⭐ | [00-backtracking.md](10-backtracking/00-backtracking.md) |
+| 11 | Graphs | 13 | ⭐⭐-⭐⭐⭐ | [00-graphs.md](11-graphs/00-graphs.md) |
+| 12 | Advanced Graphs | 6 | ⭐⭐-⭐⭐⭐ | [00-advanced-graphs.md](12-advanced-graphs/00-advanced-graphs.md) |
+| 13 | 1-D Dynamic Programming | 12 | ⭐-⭐⭐⭐ | [00-dynamic-programming-1d.md](13-dynamic-programming-1d/00-dynamic-programming-1d.md) |
+| 14 | 2-D Dynamic Programming | 11 | ⭐⭐-⭐⭐⭐ | [00-dynamic-programming-2d.md](14-dynamic-programming-2d/00-dynamic-programming-2d.md) |
+| 15 | Greedy | 8 | ⭐⭐-⭐⭐ | [00-greedy.md](15-greedy/00-greedy.md) |
+| 16 | Intervals | 6 | ⭐-⭐⭐⭐ | [00-intervals.md](16-intervals/00-intervals.md) |
+| 17 | Math & Geometry | 8 | ⭐-⭐⭐ | [00-math-geometry.md](17-math-geometry/00-math-geometry.md) |
+| 18 | Bit Manipulation | 7 | ⭐-⭐⭐ | [00-bit-manipulation.md](18-bit-manipulation/00-bit-manipulation.md) |
 
 **Total: 150 Problems** ✅
 
