@@ -30,20 +30,26 @@ For each bar, find max width rectangle with that bar's height as minimum.
 ## 💡 Solution
 
 ```python
-def largestRectangleArea(heights: list[int]) -> int:
-    stack = []  # Stack of indices
+def largestRectangleArea(self, heights: List[int]) -> int:
+    stack = []  # (index, height)
     max_area = 0
-    heights.append(0)  # Sentinel to pop all at end
-    
+
     for i, h in enumerate(heights):
-        while stack and heights[stack[-1]] > h:
-            height = heights[stack.pop()]
-            width = i if not stack else i - stack[-1] - 1
-            max_area = max(max_area, height * width)
-        
-        stack.append(i)
-    
-    heights.pop()  # Remove sentinel
+        start = i
+
+        # pop until stack is increasing
+        while stack and stack[-1][1] > h:
+            index, height = stack.pop()
+            max_area = max(max_area, height * (i - index))
+            start = index  # extend to left
+
+        stack.append((start, h))
+
+    # process remaining stack
+    n = len(heights)
+    for index, height in stack:
+        max_area = max(max_area, height * (n - index))
+
     return max_area
 ```
 
